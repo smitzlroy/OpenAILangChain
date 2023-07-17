@@ -1,9 +1,11 @@
-OpenAI Chat Model
+##OpenAI Chat Model
+
 This app uses the OpenAI Chat OpenAI model to generate text responses to user input. The app is built using Streamlit and the Langchain library.
 
 It also provides the ability to upload text or PDF documents, preparing for future functionality of embeddings and vector store.
 
-Requirements
+##Requirements
+
 Python 3.8 or later
 Pip
 The Langchain library
